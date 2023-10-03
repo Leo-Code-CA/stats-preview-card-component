@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL]()
-- Live Site URL: [Live site URL]()
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/stats-preview-card-component-challenge-solution-using-flexbox-53Bv4tqxGU)
+- Live Site URL: [Live site URL](https://leo-code-ca.github.io/stats-preview-card-component/)
 
 ## My process
 
